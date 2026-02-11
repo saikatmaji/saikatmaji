@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikat Maji</h1>
-<img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="mario banner" height="270px" width="100%" />
+<img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="mario banner" height="250px" width="100%" />
 
 <h3 align="center">Turning ideas into interactive web apps with React, GSAP & a lot of ☕</h3>
 
