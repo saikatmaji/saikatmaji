@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikat Maji</h1>
-<img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="mario banner" height="250px" width="100%" />
+<img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="mario banner" height="270px" width="100%" />
 
 <h3 align="center">Turning ideas into interactive web apps with React, GSAP & a lot of ☕</h3>
 
@@ -15,6 +15,7 @@
 ### 🌐 Connect with me:
 
 <p align="left">
+  <br>
   <a href="https://x.com/saikat__maji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/saikatmaji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="https://www.instagram.com/saikat.maji_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
@@ -23,9 +24,10 @@
 
 ---
 
-### 💻Tech Stack:
+### 💻 Tech Stack:
 
 <div align="left">
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css3 logo"  />
@@ -65,5 +67,14 @@
   <img src="https://mellow-piroshki-0c3d76.netlify.app/public/figma-image.png" height="43" alt="github logo"  />
   <img width="12" />
 </div>
+
+---
+
+### 📊 GitHub Stats:
+
+<div align="center">
+  <br>
+   <img src="https://streak-stats.demolab.com?user=saikatmaji&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+ </div>
 
 ---
