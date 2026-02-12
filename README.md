@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning _Backend Development_ with _Node.js, Express, MongoDB_
 - 💬 Ask me about: JavaScript , TypeScript , React , NextJS , NodeJs , MongoDB , SQL
-- 📫 Reach me at: *saikatmaji9064@gmail.com*
+- 📫 How to reach me *saikatmaji9064@gmail.com*
 - ⚡ Fun fact: I’ve been a crypto nerd, YouTuber, and volleyball captain — now building full-stack experiences 🚀
 
 ---
