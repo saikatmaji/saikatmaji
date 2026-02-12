@@ -5,6 +5,7 @@
 
 ---
 
+- 👨‍💻 All of my projects are available at: *https://saikat-myportfolio.netlify.app/*
 - 🌱 I’m currently learning _Backend Development_ with _Node.js, Express, MongoDB_
 - 💬 Ask me about: JavaScript , TypeScript , React , NextJS , NodeJs , MongoDB , SQL
 - 📫 How to reach me *saikatmaji9064@gmail.com*
