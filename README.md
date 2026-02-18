@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Next js
 - 💬 Ask me about: JavaScript , TypeScript , React , NodeJs , MongoDB , SQL
 - 📫 How to reach me *saikatmaji9064@gmail.com*
-- ⚡ Fun fact: I refactor code for fun
+- ⚡ Fun Fact: I push code more than I push myself to the gym
 
 ---
 
