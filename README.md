@@ -5,7 +5,7 @@
 
 ---
 
-- 👨‍💻 All of my projects are available at: *https://saikat-myportfolio.netlify.app/*
+- 👨‍💻 All of my projects are available at: *https://mellow-piroshki-0c3d76.netlify.app/*
 - 🌱 I’m currently learning Next js
 - 💬 Ask me about: JavaScript , TypeScript , React , NodeJs , MongoDB , SQL
 - 📫 How to reach me *saikatmaji6295@gmail.com*
