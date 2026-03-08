@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=saikatmaji.saikatmaji&left_color=crimson"  />
+  <img src="https://komarev.com/ghpvc/?username=saikatmaji&label=Profile%20views&color=ee4b00&style=flat"  />
 </div>
 
 ---
