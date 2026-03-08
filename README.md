@@ -1,3 +1,9 @@
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=saikatmaji.saikatmaji&left_color=crimson"  />
+</div>
+
+---
+
 <h1 align="center">Hi 👋, I'm Saikat Maji</h1>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/228735137119811.62054724baf0b.gif" alt="mario banner" height="270px" width="100%" />
 
