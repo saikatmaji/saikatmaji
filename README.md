@@ -4,7 +4,7 @@
 
 ---
 
-<h2 align="center">Hi there!<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> , I'm Saikat Maji</h2>
+<h2 align="center">Hi there!<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>, I'm Saikat Maji</h2>
 <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="mario banner" height="270px" width="100%" />
 
 <h3 align="center">A Full Stack Developer with a passion for problem-solving</h3>
