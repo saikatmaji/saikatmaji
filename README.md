@@ -5,7 +5,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Saikat Maji</h1>
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/228735137119811.62054724baf0b.gif" alt="mario banner" height="270px" width="100%" />
+<img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="mario banner" height="270px" width="100%" />
 
 <h3 align="center">A Full Stack Developer with a passion for problem-solving</h3>
 
