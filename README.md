@@ -12,7 +12,7 @@
 ---
 
 - 👨‍💻 All of my projects are available at: *https://saikat-myportfolio.netlify.app/*
-- 🌱 I’m currently learning Next js and Shadcn UI
+- 🌱 I’m currently learning Next js
 - 💬 Ask me about: JavaScript , TypeScript , React , NodeJs , MongoDB , SQL
 - 📫 How to reach me *saikatmaji6295@gmail.com*
 - ⚡ Fun Fact: I push code more than I push myself to the gym
