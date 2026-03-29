@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at: *https://mellow-piroshki-0c3d76.netlify.app/*
 - 🌱 I’m currently learning Next js and Shadcn UI
-- 💬 Ask me about: JavaScript , TypeScript , React , NodeJs , MongoDB , MySQL
+- 💬 Ask me about: JavaScript , TypeScript , React , NodeJs , MongoDB , SQL
 - 📫 How to reach me *saikatmaji9064@gmail.com*
 - ⚡ Fun Fact: I push code more than I push myself to the gym
 
