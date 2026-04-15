@@ -22,10 +22,10 @@
 ### 🌐 Connect with me:
 
 <p>
-  <a href="https://www.linkedin.com/in/saikatmaji/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" /></a>&nbsp;
-  <a href="https://x.com/saikat__maji" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" /></a>&nbsp;
-  <a href="https://leetcode.com/u/saikatmaji1/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" /></a>&nbsp;
-  <a href="https://www.instagram.com/saikat.maji_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" /></a>
+  <a href="https://www.linkedin.com/in/saikatmaji/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" /></a>&nbsp;
+  <a href="https://x.com/saikat__maji" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30" /></a>&nbsp;
+  <a href="https://leetcode.com/u/saikatmaji1/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="30" /></a>&nbsp;
+  <a href="https://www.instagram.com/saikat.maji_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30" /></a>
 </p>
 
 ---
