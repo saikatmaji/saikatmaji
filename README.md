@@ -21,10 +21,30 @@
 
 ### 🌐 Connect with me:
 
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30">](https://www.linkedin.com/in/saikatmaji/)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30">](https://x.com/saikat__maji)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="30">](https://leetcode.com/u/saikatmaji1/)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30">](https://www.instagram.com/saikat.maji_)
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/saikatmaji/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://x.com/saikat__maji" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/u/saikatmaji1/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/saikat.maji_" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
