@@ -23,7 +23,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/saikatmaji/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" /></a>&nbsp;
-  <a href="https://x.com/saikat__maji" target="_blank"><img src="https://i.pinimg.com/736x/c8/d3/d4/c8d3d4d12a8ea35b58e35de9ec820a22.jpg" width="35" /></a>&nbsp;
+  <a href="https://x.com/saikat__maji" target="_blank"><img src="https://i.pinimg.com/736x/2d/d1/63/2dd16334151beb151d6ce27a38939a6f.jpg" width="35" /></a>&nbsp;
   <a href="https://leetcode.com/u/saikatmaji1/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35" /></a>&nbsp;
   <a href="https://www.instagram.com/saikat.maji_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" /></a>
 </p>
