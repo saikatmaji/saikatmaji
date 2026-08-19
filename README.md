@@ -52,11 +52,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="43" alt="redux logo"  />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="43" alt="zustand logo"  />
+  <img src="https://hexmos.com/freedevtools/svg_icons/zustand/zustand-original.svg" height="43" alt="zustand logo"  />
+  <img width="12" />
+  <img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" height="43" alt="motion logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="43" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" height="43" alt="motion logo"  />
+  <img src="https://mellow-piroshki-0c3d76.netlify.app/public/figma-image.png" height="43" alt="github logo"  />
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" height="43" alt="nodejs logo"  />
   <img width="12" />
@@ -75,8 +77,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="43" alt="git logo"  />
   <img width="12" />
   <img src="https://mellow-piroshki-0c3d76.netlify.app/public/github-image.jpg" height="43" alt="github logo"  />
-  <img width="12" />
-  <img src="https://mellow-piroshki-0c3d76.netlify.app/public/figma-image.png" height="43" alt="github logo"  />
   <img width="12" />
 </div>
 
