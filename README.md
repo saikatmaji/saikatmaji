@@ -50,7 +50,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="43" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://thesvg.org/icons/shadcn-ui/light.svg" height="43" alt="shadcn-ui logo"  />
+  <img src="https://thesvg.org/icons/shadcn-ui/dark.svg" height="43" alt="shadcn-ui logo"  />
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/Sass.svg" height="43" alt="sass logo"  />
   <img width="12" />
