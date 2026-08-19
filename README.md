@@ -52,7 +52,7 @@
   <img width="12" />
   <img src="https://thesvg.org/icons/shadcn-ui/dark.svg" height="43" alt="shadcn-ui logo"  />
   <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Sass.svg" height="43" alt="sass logo"  />
+  <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="43" alt="zustand logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="43" alt="nextjs logo"  />
   <img width="12" />
