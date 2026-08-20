@@ -84,6 +84,8 @@
   <img width="12" />
   <img src="https://mellow-piroshki-0c3d76.netlify.app/public/github-image.jpg" height="43" alt="github logo"  />
   <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" height="43" alt="postman logo"  />
+  <img width="12" />
 </div>
 
 ---
