@@ -58,13 +58,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="43" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://mellow-piroshki-0c3d76.netlify.app/public/figma-image.png" height="43" alt="github logo"  />
+  <img src="https://mellow-piroshki-0c3d76.netlify.app/public/figma-image.png" height="43" alt="figma logo"  />
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" height="43" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://mellow-piroshki-0c3d76.netlify.app/public/expressjs-image.png" height="43" alt="expressjs logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn_XBgCV_FPtJ9WtHddtXHpM36rTKaCDC0sWFFXnBGbg&s=10" height="43" alt="expressjs logo"  />
   <img width="12" />
   <img src="https://mellow-piroshki-0c3d76.netlify.app/public/mongodb-image.svg" height="43" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" height="43" alt="postgress logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="43" alt="mysql logo"  />
   <img width="12" />
