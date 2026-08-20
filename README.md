@@ -72,11 +72,13 @@
   <img width="12" />
   <img src="https://devicons.io/devicons/icons/socketio.svg" height="43" alt="socketio logo"  />
   <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/Redis.svg" height="43" alt="redis logo"  />
+  <img width="12" />
   <img src="https://mellow-piroshki-0c3d76.netlify.app/public/docker-image.svg" height="43" alt="docker logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="43" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="43" alt="java logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="43" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="43" alt="git logo"  />
   <img width="12" />
