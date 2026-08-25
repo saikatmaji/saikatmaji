@@ -54,9 +54,9 @@
   <img width="12" />
   <img src="https://hexmos.com/freedevtools/svg_icons/zustand/zustand-original.svg" height="43" alt="zustand logo"  />
   <img width="12" />
-  <img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" height="43" alt="motion logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="43" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" height="43" alt="motion logo"  />
   <img width="12" />
   <img src="https://mellow-piroshki-0c3d76.netlify.app/public/figma-image.png" height="43" alt="figma logo"  />
   <img width="12" />
