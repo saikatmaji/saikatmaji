@@ -12,8 +12,8 @@
 ---
 
 - 👨‍💻 All of my projects are available at: *https://saikat-myportfolio.netlify.app/*
-- 🌱 I’m currently learning Next.js & Generative AI
-- 💬 Ask me about: JavaScript, TypeScript, React.js, Node.js, MongoDB, MySQL
+- 🌱 I’m currently learning Generative AI
+- 💬 Ask me about: JavaScript, TypeScript, React.js, Next.js, Node.js, MongoDB, MySQL
 - 📫 How to reach me *saikatmaji9064@gmail.com*
 - ⚡ Fun Fact: I push code more than I push myself to the gym
 
