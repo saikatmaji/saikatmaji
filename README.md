@@ -66,7 +66,7 @@
   <img width="12" />
   <img src="https://devicons.io/devicons/icons/socketio.svg" height="43" alt="socketio logo"  />
   <img width="12" />
-  <img src="https://mellow-piroshki-0c3d76.netlify.app/public/mongodb-image.svg" height="43" alt="mongodb logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" height="43" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" height="43" alt="postgress logo"  />
   <img width="12" />
