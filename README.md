@@ -58,7 +58,7 @@
   <img width="12" />
   <img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" height="43" alt="motion logo"  />
   <img width="12" />
-  <img src="https://mellow-piroshki-0c3d76.netlify.app/public/figma-image.png" height="43" alt="figma logo"  />
+  <img src="https://images.seeklogo.com/logo-png/33/1/figma-logo-png_seeklogo-332042.png" height="43" alt="figma logo"  />
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" height="43" alt="nodejs logo"  />
   <img width="12" />
