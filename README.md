@@ -12,7 +12,7 @@
 ---
 
 - 👨‍💻 All of my projects are available at: *https://my-portfolio-rl.netlify.app/*
-- 🌱 I’m currently learning Generative AI
+- 🌱 I’m currently learning Gen AI
 - 💬 Ask me about: JavaScript, TypeScript, React.js, Next.js, Node.js, MongoDB, MySQL
 - 📫 How to reach me *saikatmaji6295@gmail.com*
 - ⚡ Fun Fact: I push code more than I push myself to the gym
