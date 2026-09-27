@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Gen AI
 - 💬 Ask me about: JavaScript, TypeScript, React.js, Next.js, Node.js, MongoDB, MySQL
 - 📫 Reach me at [saikatmaji400@gmail.com](mailto:saikatmaji400@gmail.com)
-- ⚡ Fun Fact: I push code more than I push myself to the gym
+- ⚡ Fun Fact: I often start with “just a small project” and end up adding way too many features
 
 ---
 
