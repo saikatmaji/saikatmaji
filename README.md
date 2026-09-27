@@ -12,10 +12,10 @@
 ---
 
 - 👨‍💻 All of my projects are available at: *https://my-portfolio-rl.netlify.app/*
-- 🌱 I’m currently learning Gen AI
+- 🌱 Currently exploring Generative AI and modern web technologies.
 - 💬 Ask me about: JavaScript, TypeScript, React.js, Next.js, Node.js, MongoDB, MySQL
 - 📫 Reach me at [saikatmaji400@gmail.com](mailto:saikatmaji400@gmail.com)
-- ⚡ Fun Fact: I often start with “just a small project” and end up adding way too many features
+- ⚡ Fun Fact: I often start with “just a small project” and end up adding way too many features.
 
 ---
 
