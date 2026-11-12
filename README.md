@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at: *https://my-portfolio-rl.netlify.app/*
 - 🌱 Currently exploring Gen AI and modern web technologies.
 - 💬 Ask me about: JavaScript, TypeScript, React.js, Next.js, Node.js, MongoDB, MySQL, PostgreSQL
-- 📫 Reach me at [saikatmaji400@gmail.com](mailto:saikatmaji400@gmail.com)
+- 📫 Reach me at [saikatmaji9064@gmail.com](mailto:saikatmaji9064@gmail.com)
 - ⚡ Fun Fact: I often start with “just a small project” and end up adding way too many features.
 
 ---
